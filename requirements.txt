@@ -1,0 +1,5 @@
+awscli>=1.18.187
+boto3
+opencv-python
+pandas
+pylint
